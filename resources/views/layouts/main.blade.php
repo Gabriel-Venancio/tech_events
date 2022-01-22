@@ -29,7 +29,7 @@
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
                         <a class="nav-link" href="#">Eventos</a>
-                        <a class="nav-link" href="/">Criar Eventos</a>
+                        <a class="nav-link" href="/events/create">Criar Eventos</a>
                         <a class="nav-link" href="/">Entrar</a>
                         <a class="nav-link" href="/">Cadastrar</a>
                     </div>
@@ -41,5 +41,7 @@
     <footer>
         <p>Tech Events &copy; 2021</p>
     </footer>
+    <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     </body>
 </html>
